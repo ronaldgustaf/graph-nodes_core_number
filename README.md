@@ -15,8 +15,8 @@
     - comparing the results of both txt file generated
 
 ## Outputs
-========= Own Method =========
-Total Duration Own:  5.613739 s
-========= NetworkX Method =========
-Total Duration NetworkX:  5.144641 s
-SAME
+    ========= Own Method =========
+    Total Duration Own:  5.613739 s
+    ========= NetworkX Method =========
+    Total Duration NetworkX:  5.144641 s
+    SAME
